@@ -14,32 +14,21 @@ I'm **Shradhey Naudiyal**, a Computer Science student with a passion for buildin
 
 I believe in **continuous growth**, and I enjoy pushing myself to explore new tech and solve real-world problems through my projects. I'm adaptive, collaborative, and someone who enjoys working in diverse environments. Whether it's writing clean code, designing systems, or working on a hackathon challenge — I love it all!
 
-I also enjoy connecting with people from around the globe. If you share the same enthusiasm for tech or have cool ideas to build — don’t just say “hi”, **tell me your story** 😊💬
+I also enjoy connecting with people from around the globe. If you share the same enthusiasm for tech or have cool ideas to build let's connect!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shradheyn)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Technical Skills
 
 - **Languages**: Python, C++, Java, HTML/CSS, JavaScript  
 - **Frameworks & Tools**: Flask, TensorFlow, Git, GitHub, MongoDB  
-- **Learning**: FastAPI, Docker, REST APIs  
-
----
-
-### 📖 Hobbies & Interests
-
-Apart from coding, I enjoy:
-- 📚 Reading non-fiction and self-growth books
-- ✍️ Writing ideas, blogs, and journaling
-- 🧠 Solving logic puzzles and brain teasers
-- 🌱 Exploring AI applications for social good
+- **Learning**: FastAPI, REST APIs  
 
 ---
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shradhey-naudiyal-438b33230))
+- [GitHub](https://github.com/shradheyn)
 - [Medium](https://medium.com/@yourusername)
 - [Twitter](https://twitter.com/yourhandle)
 
