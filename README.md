@@ -1,11 +1,8 @@
 # Hi <𝚌𝚘𝚍𝚎𝚛𝚜/> , I’m Shradhey 👨‍💻
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/shradhey-naudiyal-438b33230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
@@ -18,7 +15,7 @@ I'm **Shradhey Naudiyal**, a Computer Science student with a passion for buildin
 I believe in **continuous growth**, and I enjoy pushing myself to explore new tech and solve real-world problems through my projects. I'm adaptive, collaborative, and someone who enjoys working in diverse environments. Whether it's writing clean code, designing systems, or working on a hackathon challenge — I love it all!
 
 I also enjoy connecting with people from around the globe. If you share the same enthusiasm for tech or have cool ideas to build — don’t just say “hi”, **tell me your story** 😊💬
-
+[![Shradhey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shradheyn)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🛠 Technical Skills
