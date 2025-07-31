@@ -15,8 +15,8 @@ I'm **Shradhey Naudiyal**, a Computer Science student with a passion for buildin
 I believe in **continuous growth**, and I enjoy pushing myself to explore new tech and solve real-world problems through my projects. I'm adaptive, collaborative, and someone who enjoys working in diverse environments. Whether it's writing clean code, designing systems, or working on a hackathon challenge — I love it all!
 
 I also enjoy connecting with people from around the globe. If you share the same enthusiasm for tech or have cool ideas to build — don’t just say “hi”, **tell me your story** 😊💬
-[![Shradhey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shradheyn)](https://github.com/anuraghazra/github-readme-stats)
----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shradheyn)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Technical Skills
 
